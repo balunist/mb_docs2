@@ -1,9 +1,9 @@
 .. MapBoards Documentation master file
    The index files create chapters, each referenced file is a H1 Section 
 
-#####################
-MapBoards Description
-#####################
+######################
+MapBoards User's Guide
+######################
 
 .. toctree::
    :maxdepth: 1
