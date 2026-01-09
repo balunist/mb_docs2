@@ -9,9 +9,7 @@ Downloads
 
 .. role:: blue-bold
 
-Purchased add-ins are available to download at the following link.
-
-    `Downloads <https://icarussoftlandings.com/download/>`__
+**Downloads no longer available.**
 
 When installing on Windows, see :ref:`Windows Install <win_install-label>`
 
