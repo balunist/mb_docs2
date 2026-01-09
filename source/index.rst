@@ -5,6 +5,9 @@
 MapBoards User's Guide
 ######################
 
+MapBoards is no longer actively maintained. It has been replaced by MapBoards Pro
+---------------------------------------------------------------------------------
+
 .. toctree::
    :maxdepth: 1
    :caption: Table of Contents
